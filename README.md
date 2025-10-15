@@ -45,4 +45,4 @@ We welcome suggestions, bug reports, and contributions! If you have ideas for im
 
 ## 📄 License
 
-This project is licensed under the \[*Add your license here, e.g., MIT*] License. See the `LICENSE` file for details.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License](https://creativecommons.org/licenses/by-nc/4.0/).
