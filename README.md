@@ -29,9 +29,7 @@ The Calorie Tracker is a mobile application designed to help you monitor your di
 * **Flexible Data Entry:** Add custom protein and carb counts for highly accurate macro tracking.
 
 ## 📸 Screenshots
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-15 at 15 59 20" src="https://github.com/user-attachments/assets/bf4a5881-3f7f-4b06-8e42-c7379adc64df" />
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-15 at 15 56 28" src="https://github.com/user-attachments/assets/3cbfe1a6-60a3-4355-91eb-0ba3bc0cc4f2" />
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-15 at 15 59 26" src="https://github.com/user-attachments/assets/fa165ee8-b47e-4780-bbf0-2c70a6eea68d" />
+<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-15 at 15 59 20" src="https://github.com/user-attachments/assets/bf4a5881-3f7f-4b06-8e42-c7379adc64df" /><img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-15 at 15 56 28" src="https://github.com/user-attachments/assets/3cbfe1a6-60a3-4355-91eb-0ba3bc0cc4f2" /><img width="1320" height="2868" alt="Simulator Screenshot - iPhone 16 Pro Max - 2025-10-15 at 15 59 26" src="https://github.com/user-attachments/assets/fa165ee8-b47e-4780-bbf0-2c70a6eea68d" />
 
 ## ⚙️ Technology Stack
 
